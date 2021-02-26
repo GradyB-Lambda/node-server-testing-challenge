@@ -22,7 +22,7 @@ For this project you will use `Test Driven Development` to create a RESTful API 
 - Your API must be able to **create** and **delete** a _resource_ of your choosing.
 - Write a minimum of two tests per route handler.
 
-### Task 3: Stretch Goals
+### Task 3: Stretch
 
 The following goals are designed to stretch your knowledge and may require additional research beyond what was learned in class today.
 
@@ -35,4 +35,4 @@ The following goals are designed to stretch your knowledge and may require addit
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
